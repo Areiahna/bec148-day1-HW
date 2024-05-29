@@ -7,5 +7,4 @@ MAX_LIMIT = 1000
 
 # print(PI,user_age, user_location, MAX_LIMIT)
 
-#============================================#
 
